@@ -1,0 +1,17 @@
+.pio/
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch/
+.idea/
+
+# Local machine and device settings
+platformio.local.ini
+*.local
+
+# Build artifacts
+*.bin
+*.elf
+*.map
+*.hex
+*.uf2
